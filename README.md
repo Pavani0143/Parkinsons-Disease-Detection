@@ -19,3 +19,14 @@ Python, Pandas, NumPy, Scikit-learn
 1. Install requirements
 2. Run parkinsons_detection.py
 3. Enter sample values to get prediction
+
+## Outputs
+
+### Dataset Overview
+![Dataset](dataset.jpg)
+
+### Model Performance
+![Performance](performance.jpg)
+
+### Prediction Result
+![Prediction](result.jpg)
